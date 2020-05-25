@@ -3,7 +3,7 @@
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 18px;
-  color: #404040;
+  color: #323232;
   position: relative;
   background: gainsboro;
   display: flex;
@@ -12,7 +12,7 @@ body {
 }
 @media (prefers-color-scheme: dark) {
   body {
-    background: black;
+    background: #323232;
     color: gainsboro;
   }
 }
@@ -175,7 +175,7 @@ figure:not(.dark) img, img.white {
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
   font-weight: 800;
-  color: #404040;
+  color: #323232;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -357,7 +357,7 @@ footer {
 }
 
 footer a {
-  color: #404040;
+  color: #323232;
 
 }
 
@@ -415,7 +415,7 @@ footer .theme-by {
 
 .post-preview a {
   text-decoration: none;
-  color: #404040;
+  color: #323232;
 }
 @media (prefers-color-scheme: dark) {
   .post-preview a {
@@ -452,7 +452,7 @@ footer .theme-by {
 .post-preview .post-meta a,
 .post-heading .post-meta a,
 .page-meta a {
-  color: #404040;
+  color: #323232;
   text-decoration: none;
 }
 .post-preview .post-entry {
@@ -709,7 +709,7 @@ footer .theme-by {
   padding: 10px 5px;
   background: gainsboro;
   border-radius: 0;
-  color: #404040;
+  color: #323232;
 }
 @media only screen and (min-width: 768px) {
   .pager li a {
@@ -843,7 +843,7 @@ div.splitbox div.right {
   padding: 10px 5px;
   background: gainsboro;
   border-radius: 0;
-  color: #404040;
+  color: #323232;
 }
 @media only screen and (min-width: 768px) {
   .disqus-comments button {
